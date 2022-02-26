@@ -1,8 +1,9 @@
 import './app.css';
+import Sample from './components/sample';
 
 function App() {
   return (
-    <h1>ss</h1>
+    <Sample/>
   )
 }
 
