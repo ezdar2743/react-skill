@@ -1,13 +1,13 @@
 import './app.css';
-import Average from './components/average';
-import average from './components/average';
-import Counter from './components/counter';
-import Sample from './components/sample';
+import MinuteTohour from './components/minuteTohour';
+import Select from './components/select';
+
 
 function App() {
   return (
     <>
-      <Average/>
+    <h1>Convert</h1>
+      <Select/>
     </>
   )
 }
